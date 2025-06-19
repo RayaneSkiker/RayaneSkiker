@@ -1,4 +1,7 @@
-## Hi there 👋
+## CS Student
+- Familiar with Java, JavaScript
+- Worked on Domus project
+- Interested in Data Analysis
 
 <!--
 **RayaneSkiker/RayaneSkiker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
